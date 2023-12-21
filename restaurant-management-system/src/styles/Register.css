@@ -1,0 +1,14 @@
+.wrapper{
+    height: auto;
+    padding-top: 20px;
+    padding-left: 200px;
+}
+.register{
+    width:600px;
+    height: 650px;
+    padding: 70px;
+    border-radius: 5px;
+    font-size: larger;
+    font-family: "fantasy";
+    background-color: rgb(255, 255, 255);
+}
